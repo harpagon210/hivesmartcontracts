@@ -1,4 +1,4 @@
-const dsteem = require('dsteem');
+const dhive = require('@hiveio/dhive');
 const { Queue } = require('../libs/Queue');
 const { Transaction } = require('../libs/Transaction');
 const { IPC } = require('../libs/IPC');
@@ -345,7 +345,7 @@ const streamBlocks = async (reject) => {
 };
 
 const initHiveClient = (node, hiveAddressPrefix, hiveChainId) => {
-  client = new dsteem.Client(node, {
+  client = new dhive.Client(node, {
     addressPrefix: hiveAddressPrefix,
     chainId: hiveChainId,
   });

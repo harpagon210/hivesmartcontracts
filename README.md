@@ -1,4 +1,4 @@
-# Hive Smart Contracts [![Build Status](https://travis-ci.org/harpagon210/steemsmartcontracts.svg?branch=master)](https://travis-ci.org/harpagon210/steemsmartcontracts)[![Coverage Status](https://coveralls.io/repos/github/harpagon210/steemsmartcontracts/badge.svg?branch=master)](https://coveralls.io/github/harpagon210/steemsmartcontracts?branch=master)
+# Hive Smart Contracts [![Build Status](https://travis-ci.org/harpagon210/hivesmartcontracts.svg?branch=master)](https://travis-ci.org/harpagon210/hivesmartcontracts)
 
  ## 1.  What is it?
 
@@ -17,11 +17,11 @@ This is actually pretty easy, you basically need a Hive account and that's it. T
 
 ## 4. Setup a Hive Smart Contracts node
 
-see wiki: https://github.com/harpagon210/steemsmartcontracts/wiki/How-to-setup-a-Steem-Smart-Contracts-node
+see wiki: https://github.com/harpagon210/hivesmartcontracts/wiki/How-to-setup-a-Hive-Smart-Contracts-node
 
 ## 5. Tests
 * npm run test
 
 ## 6. Usage/docs
 
-* see wiki: https://github.com/harpagon210/steemsmartcontracts/wiki
+* see wiki: https://github.com/harpagon210/hivesmartcontracts/wiki
